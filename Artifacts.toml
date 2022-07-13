@@ -1,9 +1,9 @@
 [[LLVM_full]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c87141525554139880afcf2afcbbd920fb85b79"
+git-tree-sha1 = "2a08acc0f753ce21e3a2747a36377697f07df07b"
 os = "windows"
 
     [[LLVM_full.download]]
-    sha256 = "d23a22b0058b9379cc96c1b73677f110656c4e26cca97d086600705550eed850"
+    sha256 = "a8925762b6334d728e5537a841e379d66eaa771edfbf0c0528a54504c8482342"
     url = "https://github.com/maleadt/LLVM_full.jl/releases/download/LLVM_full-v14.0.5+3/LLVM_full.v14.0.5.x86_64-w64-mingw32-cxx11.tar.gz"
